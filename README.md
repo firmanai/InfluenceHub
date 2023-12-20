@@ -66,7 +66,7 @@ Berikut adalah link untuk mengunduh aplikasi InfluenceHub: [InfluenceHub App](li
 - **Express.js**
 - **Flask**
 
-## Architekture
+## Architecture
 ![Architekture](Architekture.png)
 
 ## Getting Started
