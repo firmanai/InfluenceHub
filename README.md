@@ -33,7 +33,7 @@
    - Program Studi: Mobile Development
    - Universitas: Universitas Bakrie
 
-## iFiCam Apps
+## InfluenceHub Apps
 
 ### Deskripsi
 
@@ -41,7 +41,7 @@ InfluenceHub adalah
 
 ### Link Unduh
 
-Berikut adalah link untuk mengunduh aplikasi iFiCam: [InfluenceHub App](link_unduh_aplikasi)
+Berikut adalah link untuk mengunduh aplikasi InfluenceHub: [InfluenceHub App](link_unduh_aplikasi)
 
 ## Build With
 
